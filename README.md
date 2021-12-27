@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Anirudh
+- 👋 Hi, I’m @SmitCoderX
+- 🏢 I work at WeDoApps
 - 👀 I’m interested in Kotlin, Android, Java
 - 🌱 I’m currently learning Nodejs, and Flows
 - 📫 How to reach me anirudh@wedoapps.in
